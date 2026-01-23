@@ -7,3 +7,5 @@
 
   gtag('config', 'G-XB87F6HNVN');
 </script>
+
+G-XB87F6HNVN
